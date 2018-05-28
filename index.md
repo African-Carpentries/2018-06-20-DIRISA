@@ -178,6 +178,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+<p id="registration"><strong>Registration:</strong>
+  Please complete the registration form available at <a href="https://goo.gl/forms/WlkwYlfY51t8pLBE3">https://goo.gl/forms/WlkwYlfY51t8pLBE3</a>.
+ </p>
+
 <hr/>
 
 {% comment %} 
